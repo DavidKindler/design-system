@@ -88,7 +88,7 @@
     "theo": "4.0.1",
     "through2": "2.0.0",
     "tinycolor2": "1.1.2",
-    "webpack": "1.12.1",
+    "webpack": "2.2.0",
     "zeroclipboard": "2.2.0"
   },
   "devDependencies": {
