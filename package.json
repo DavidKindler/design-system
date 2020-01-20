@@ -71,7 +71,7 @@
     "md5": "2.0.0",
     "minimist": "1.2.0",
     "moment": "2.10.6",
-    "node-sass": "3.3.2",
+    "node-sass": "4.13.1",
     "postcss": "5.0.4",
     "react": "0.14.0-beta3",
     "react-addons-clone-with-props": "0.14.0-beta3",
